@@ -5,7 +5,7 @@
 
 #Method to print array
 
-def print_arr(arr,n):
+def arr(arr,n):
     for i in range(n):
         print(arr[i],end="")
 
